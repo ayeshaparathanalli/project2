@@ -1,1 +1,1 @@
-good afternoon
+c=a-b
